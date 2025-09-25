@@ -4,6 +4,8 @@
 
 Vityarthi's assigned project CCRM Campus Course and Records Manager is a java application which manages student , their courses enrolled , transcription and grades of them. This program supports imports and exports from CSV format,GPA information,data saving which is fully menu driven and easily understandable.
 
+<img width="488" height="394" alt="menu 1" src="https://github.com/user-attachments/assets/1006ec0e-ac8d-4ea3-ac60-3270e7f1427e" />
+
 ---
 
 ### Pre-requisites
@@ -20,6 +22,8 @@ Vityarthi's assigned project CCRM Campus Course and Records Manager is a java ap
 1.  Import the project using **File -> Import... -> General -> Projects from Folder or Archive**.
 2.  Navigate to src/main/java/edu/ccrm/cli/CrmApplication.java.
 3.  Right-click on CrmApplication.java and select **Run As -> Java Application**.
+
+<img width="242" height="387" alt="file_structure" src="https://github.com/user-attachments/assets/d91d7c34-f362-41d2-9ad0-ca8147817ae4" />
 
 ---
 
@@ -57,7 +61,8 @@ Vityarthi's assigned project CCRM Campus Course and Records Manager is a java ap
 2.  Run the installer and follow the on-screen instructions.
 3.  Verify the installation by opening a Command Prompt and running java -version.
 
-![Image 2025-09-24 at 18 51 34_6db4996d](https://github.com/user-attachments/assets/245e5322-0a86-4916-900d-c60b921c59f6)
+<img width="802" height="274" alt="image" src="https://github.com/user-attachments/assets/42440039-91b4-4e6c-a845-c5c0868161c8" />
+
 
 
 ### Eclipse Setup Steps
@@ -65,10 +70,7 @@ Vityarthi's assigned project CCRM Campus Course and Records Manager is a java ap
 2.  The project structure will appear in the "Package Explorer".
 3.  To run, right-click CrmApplication.java and select Run As -> Java Application.
 
-![Image 2025-09-24 at 23 24 01_9d39b207](https://github.com/user-attachments/assets/1a68b8d7-2525-47aa-90b6-1a00b36ca695)
-![Image 2025-09-24 at 23 24 18_d4cb1ee0](https://github.com/user-attachments/assets/951db32a-6e56-40dd-8d2e-c348942bebde)
-![Image 2025-09-24 at 23 24 36_0e201b20](https://github.com/user-attachments/assets/dd528de6-e41b-461e-877a-7c8297e55993)
-![Image 2025-09-24 at 23 24 57_3020e5d5](https://github.com/user-attachments/assets/14c4f0db-99f5-42a6-9505-18aa06bd31c9)
+<img width="639" height="648" alt="eclipse_installation" src="https://github.com/user-attachments/assets/a92b83b1-232e-4dd0-a9b4-cd2cbc829162" />
 
 ---
 
@@ -79,8 +81,15 @@ To enable assertions for internal checks:
 3.  Go to the **Arguments** tab.
 4.  In the **VM arguments** box, add the flag: **-ea**.
 
+<img width="938" height="682" alt="config" src="https://github.com/user-attachments/assets/87621839-a000-4a55-b653-754f5f27f335" />
 
 ---
+## Demo usage
+<img width="485" height="855" alt="adding_student" src="https://github.com/user-attachments/assets/f77f0d7a-d693-404d-9fe6-79e5f6c517f4" />
+<img width="491" height="873" alt="student_list" src="https://github.com/user-attachments/assets/ccb143fa-4283-4afe-b611-cb3a6fb8ba14" />
+<img width="1154" height="916" alt="updating_student" src="https://github.com/user-attachments/assets/5b6f42f8-05f8-4504-8b1e-63121cacd3c9" />
+<img width="699" height="891" alt="viewing_profile" src="https://github.com/user-attachments/assets/2ae38839-6964-4ba6-af6d-7add862bf160" />
+
 
 ## Technology Mapping Table
  ___________________________________________________________________________________
@@ -97,6 +106,3 @@ To enable assertions for internal checks:
 | *Anonymous Inner Class*    | CrmApplication.java (in manageStudents method)        |
 |____________________________|_______________________________________________________|
 
-![Image 2025-09-24 at 23 23 48_db59b000](https://github.com/user-attachments/assets/92d24874-1adc-4d14-be0b-c03f52a5f60d)
-![Image 2025-09-24 at 20 06 32_52c7fd52](https://github.com/user-attachments/assets/b5179e61-0368-4c4d-b1dc-a03760508a9f)
-![Image 2025-09-24 at 20 06 14_8a5bd7a2](https://github.com/user-attachments/assets/efc6416d-7d85-487f-ba5f-9f601220d326)
